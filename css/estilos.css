@@ -1,0 +1,92 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 1vw;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+                               /* header */
+header {
+  background-color: #3ac4c4;
+  height: 20vh;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  color: #ffffff;
+}
+header p {
+  padding-bottom: 10px;
+}
+                                /* aside */
+aside {
+  position: sticky;
+  top: 0;
+  background-color: #3ac4c4;
+  height: 37vh;
+  margin: 5px;
+  text-align: center;
+  border: 2px dotted #bfbfbf;
+  padding-top: 15px;
+  font-size: 1.1vw;
+}
+aside li {
+  display: grid;
+  margin-bottom: 20px;
+}
+aside a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+                                              /* main */
+main {
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: 10% 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+                                            /* figures */
+figure {
+  border: 2px solid black;
+  margin: 5px;
+  overflow: hidden;
+}
+figure img {
+  width: 100%;
+  height: 60vh;
+  display: block;
+}
+figcaption {
+  text-align: center;
+  font-size: 2vw;
+}
+.primera-fila {
+  display: grid;
+  grid-template-columns: 2fr 1fr; /*dos columnas, la primera tiene el doble tamaño de la segunda */
+}
+.segunda-fila {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* Tres columnas iguales */
+}
+                                       /* footer */
+footer {
+  background-color: #3ac4c4;
+  color: #000000;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+  padding: 8px;
+}
+
+.redes-sociales a img {
+  width: 30px;
+  height: 30px;
+}
