@@ -1,6 +1,6 @@
 # Proyecto GridMaster
 
-![GridMaster Logo](enlace_a_la_imagen/logo.png)
+![GridMaster Logo](img/css-grid-intro.jpg)
 
 ## Descripción del Proyecto
 Este proyecto es una elegante Galería Fotográfica desarrollada con HTML y CSS Grid en Visual Studio. La interfaz de usuario utiliza el poder de CSS Grid para organizar de manera fluida las imágenes en una cuadrícula, proporcionando una experiencia visual atractiva y responsive.
