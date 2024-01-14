@@ -36,10 +36,10 @@ Este proyecto es una elegante Galería Fotográfica desarrollada con HTML y CSS 
 ### Versión 1.0.1 
 
 ## Autores
-Este proyecto fue iniciado por Mohamed Sahraoui y ha recibido contribuciones de apasionados por el diseño web. 
+Este proyecto fue creado por Mohamed Sahraoui y ha recibido contribuciones de apasionados por el diseño web. 
 
 ## Licencia
-GridMaster se distribuye bajo la Licencia [MIT](LICENSE.md). Consulta el archivo [LICENSE.md](LICENSE.md) para obtener más detalles.
+Copyright (c) [2001] [MOHAMED SAHRAOUI]
 
 ## Recursos Adicionales
 - [Página de GitHub](https://github.com/tu_usuario/gridmaster)
