@@ -29,24 +29,26 @@ Este proyecto es una elegante Galería Fotográfica desarrollada con HTML y CSS 
 
 ## Construido con
 - 🌐 HTML5
+
+  ![Ejemplo de Imagen](C:\Users\SIMO\Downloads\css-grid-intro.jpg)
+
 - 🎨 CSS3 (Grid Layout)
 
 ## Versionado
 
-### Versión 1.0.1 
+*Versión 1.0.1*.
 
 ## Autores
 Este proyecto fue creado por Mohamed Sahraoui y ha recibido contribuciones de apasionados por el diseño web. 
 
 ## Licencia
-Copyright (c) [2001] [MOHAMED SAHRAOUI]
+ Este proyecto está bajo la Licencia MIT - Copyright (c) 2020 [MOHAMED SAHRAOUI]
 
 ## Recursos Adicionales
-- [Página de GitHub](https://github.com/tu_usuario/gridmaster)
-- [Documentación del Proyecto](https://enlace_a_la_documentacion.com)
+- [Página de GitHub](https://github.com/MohamedSahraoui21)
+- [Mi LinkedIn](https://www.linkedin.com/in/mohamed-sahraoui-1a4928293/)
 
 ---
 
-¡Descubre el poder de CSS Grid con GridMaster! 🌐🎉
 
 
