@@ -30,7 +30,7 @@ Este proyecto es una elegante Galería Fotográfica desarrollada con HTML y CSS 
 ## Construido con
 - 🌐 HTML5
 
-  ![Ejemplo de Imagen](C:\Users\SIMO\Downloads\css-grid-intro.jpg)
+  ![Ejemplo de Imagen](img/bee-8397521_1280.jpg)
 
 - 🎨 CSS3 (Grid Layout)
 
