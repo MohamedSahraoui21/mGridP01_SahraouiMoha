@@ -30,7 +30,7 @@ Este proyecto es una elegante Galería Fotográfica desarrollada con HTML y CSS 
 ## Construido con
 - 🌐 HTML5
 
-  ![Ejemplo de Imagen](img/bee-8397521_1280.jpg)
+  ![Ejemplo de Imagen](img/HTML5_logo_and_wordmark.svg.png)
 
 - 🎨 CSS3 (Grid Layout)
 
