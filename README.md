@@ -1,4 +1,4 @@
-# Proyecto Grid :computer:
+# MaquetacionGRID_Practica01 :computer:
 
 ![GridMaster Logo](img/css-grid-intro.jpg)
 
